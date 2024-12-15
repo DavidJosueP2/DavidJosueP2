@@ -1,16 +1,29 @@
+## 👋 Hi there! I'm David
 
-## Hi there 👋 I'm David!
-
-Welcome to my GitHub profile! Here you'll find my journey as a developer, my ongoing projects, and a bit about what I'm currently diving into.
+Welcome to my GitHub profile! This is where I share my journey as a student and passionate software engineer.
 
 ### 🚀 About Me
-- 🔭 **I’m currently working on:** some cool Java projects, exploring microservices, and designing a clean IP addressing scheme for better network distribution.
-- 🌱 **I’m currently learning:** advanced SQL, Oracle 24c features, and deepening my understanding of ISO 27005 for risk management.
-- 👯 **I’m looking to collaborate on:** anything Java-related, from Swing applications to MySQL integrations!
-- 🤔 **I’m looking for help with:** creative solutions for student data validation (Java devs, let’s connect!).
-- 💬 **Ask me about:** SQL tips, internal control norms, and best practices in Software Configuration Management.
-- 📫 **How to reach me:** [Your preferred contact info or email].
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** When I’m not coding, I’m probably exploring new tech podcasts or building detailed narratives for my investigative research projects.
+I’m a 4th-semester Software Engineering student with experience in web application development and integrated systems. My main focus is creating innovative solutions using modern tools and frameworks.
 
-Let’s create, collaborate, and code something awesome! 😄
+### 🛠️ Skills and Technologies
+- **Programming Languages:** JavaScript, PHP, Python, Java.
+- **Databases:** MySQL, HeidiSQL, Oracle.
+- **Frameworks and Tools:** Laravel, Node.js with Express, React (with Vite).
+- **Methodologies:** Scrum, risk management based on ISO 27005.
+
+### 🌟 Highlighted Projects
+- **Asset Management System:** A comprehensive system built with Laravel and React to efficiently manage resources.
+- **Political Party Website:** Collaborative development of a platform to manage party information and events.
+- **Microservices in Java:** Implementation of distributed services leveraging relational databases to optimize workflows.
+
+### 📚 Currently Learning
+- **API REST and JWT:** Developing APIs that securely return JSON using JWT authentication. 
+- Integrating design patterns in Java.
+- Advanced techniques in software audit and security.
+- Building distributed and service-oriented applications.
+
+### 🤝 Let’s Collaborate!
+I’m open to collaborating on projects related to backend development, database optimization, and scalable architectures.
+
+### 📬 Get in Touch
+Feel free to email me at deividjosue52@gmail.com or connect with me on Instagram: @deivid.josue2005.
