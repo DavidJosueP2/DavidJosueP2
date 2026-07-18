@@ -35,18 +35,6 @@ Focused on system reliability through refactoring, validations, and clean archit
 
 ---
 
-### Backend Developer — EEASA *(Freelance)*  
-*Ambato, Ecuador · 2025*
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot)
-![Backend](https://img.shields.io/badge/Backend_Refactoring-374151?style=flat-square)
-![Validation](https://img.shields.io/badge/Data_Validation-4B5563?style=flat-square)
-
-Refactoring and stabilization of a Spring Boot backend system for electricity meter incident management.  
-Improved entity design, validations, and business logic, increasing maintainability and overall system stability.
-
----
-
 ## Education
 
 ### Software Engineering  
